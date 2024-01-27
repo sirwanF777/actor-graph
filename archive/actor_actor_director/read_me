@@ -1,0 +1,9 @@
+In these files, each actor is considered a node, whose edges indicate which directors they have worked with,
+and we connect actors who have worked with common directors, which includes:
+Number of nodes: 7348
+Number of edges: 98500
+---------------------------------------------------------------------------------------------------------------------
+در این فایلها هر بازیگر یک گره در نظر گرفته میشود که یال های آن نشان دهنده این است که با کدام کارگردانها همکاری داشته اند
+و بازیگرانی که با کارگردانهای مشترکی همکاری داشته باشند را به هم متصل میکنیم که در مجموع شامل:
+تعداد گره ها: 7348
+تعداد یال ها: 98500

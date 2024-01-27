@@ -1,0 +1,9 @@
+In these files, each actor is considered a node, whose edges indicate which movies they have played in,
+and we connect the actors who have played in joint movies, which includes:
+Number of nodes: 7582
+Number of edges: 27234
+---------------------------------------------------------------------------------------------------------------------
+در این فایلها هر بازیگر یک گره در نظر گرفته میشود که یال های آن نشان دهنده این است
+که در کدام فیلم ها بازی کرده اند و بازیگرانی که در فیلم های مشترک بازی کرده اند را به هم متصل میکنیم که در مجموع شامل:
+تعداد گره ها: 7582
+تعداد یال ها: 27234
